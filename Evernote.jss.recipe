@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<string>local.jss.Evernote</string>
+	<key>Input</key>
+	<dict>
+		<key>CATEGORY</key>
+		<string>Productivity</string>
+		<key>DESCRIPTION</key>
+		<string>Note-taking workspace.</string>
+		<key>GROUP_NAME</key>
+		<string>%NAME%-update-smart</string>
+		<key>GROUP_TEMPLATE</key>
+		<string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
+		<key>ICON</key>
+		<string>%RECIPE_DIR%/Evernote.png</string>
+		<key>NAME</key>
+		<string>Evernote</string>
+		<key>PKG_ID</key>
+		<string>com.evernote.Evernote</string>
+		<key>POLICY_CATEGORY</key>
+		<string>Testing</string>
+		<key>POLICY_TEMPLATE</key>
+		<string>%RECIPE_DIR%/PolicyTemplate.xml</string>
+		<key>SPARKLE_FEED_URL</key>
+		<string>http://update.evernote.com/public/ENMac/EvernoteMacUpdate.xml</string>
+	</dict>
+	<key>ParentRecipe</key>
+	<string>com.github.autopkg.jss.Evernote</string>
+</dict>
+</plist>

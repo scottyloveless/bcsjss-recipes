@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<string>local.jss.Skype</string>
+	<key>Input</key>
+	<dict>
+		<key>CATEGORY</key>
+		<string>Productivity</string>
+		<key>DESCRIPTION</key>
+		<string>Skype is a freemium voice over IP service and instant messaging client, currently developed by Microsoft-owned Skype Technologies.</string>
+		<key>DOWNLOAD_URL</key>
+		<string>http://www.skype.com/go/getskype-macosx.dmg</string>
+		<key>GROUP_NAME</key>
+		<string>%NAME%-update-smart</string>
+		<key>GROUP_TEMPLATE</key>
+		<string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
+		<key>ICON</key>
+		<string>%RECIPE_DIR%/Skype.png</string>
+		<key>NAME</key>
+		<string>Skype</string>
+		<key>POLICY_CATEGORY</key>
+		<string>Testing</string>
+		<key>POLICY_TEMPLATE</key>
+		<string>%RECIPE_DIR%/PolicyTemplate.xml</string>
+	</dict>
+	<key>ParentRecipe</key>
+	<string>com.github.autopkg.jss.Skype</string>
+</dict>
+</plist>

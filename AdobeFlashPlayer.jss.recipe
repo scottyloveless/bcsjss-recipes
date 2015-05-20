@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<string>local.jss.AdobeFlashPlayer</string>
+	<key>Input</key>
+	<dict>
+		<key>CATEGORY</key>
+		<string>Digital Media</string>
+		<key>GROUP_NAME</key>
+		<string>AdobeFlashPlayerUpdate-smart</string>
+		<key>GROUP_TEMPLATE</key>
+		<string>%RECIPE_DIR%/AdobeFlashSmartGroupTemplate.xml</string>
+		<key>ICON</key>
+		<string>%RECIPE_DIR%/AdobeFlashPlayer.png</string>
+		<key>NAME</key>
+		<string>AdobeFlashPlayer</string>
+		<key>POLICY_CATEGORY</key>
+		<string>Testing</string>
+		<key>POLICY_TEMPLATE</key>
+		<string>%RECIPE_DIR%/PolicyTemplate.xml</string>
+	</dict>
+	<key>ParentRecipe</key>
+	<string>com.github.autopkg.jss.FlashPlayerExtractPackage</string>
+</dict>
+</plist>
