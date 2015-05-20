@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.AdobeAcrobatProXUpdate</string>
+	<string>com.github.scottyloveless.jss.AdobeAcrobatProXUpdate</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -29,7 +29,5 @@
 		<key>VERSION</key>
 		<string>latest</string>
 	</dict>
-	<key>ParentRecipe</key>
-	<string>com.github.novaksam.jss.AdobeAcrobatProXUpdate</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.AdobeFlashPlayer</string>
+	<string>com.github.scottyloveless.jss.AdobeFlashPlayer</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -21,7 +21,5 @@
 		<key>POLICY_TEMPLATE</key>
 		<string>%RECIPE_DIR%/PolicyTemplate.xml</string>
 	</dict>
-	<key>ParentRecipe</key>
-	<string>com.github.autopkg.jss.FlashPlayerExtractPackage</string>
 </dict>
 </plist>
