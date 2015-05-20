@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.Keynote</string>
+	<string>com.github.scottyloveless.jss.Keynote</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

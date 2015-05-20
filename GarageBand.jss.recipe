@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.GarageBand</string>
+	<string>com.github.scottyloveless.jss.GarageBand</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

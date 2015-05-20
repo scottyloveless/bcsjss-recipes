@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.iBooksAuthor</string>
+	<string>com.github.scottyloveless.jss.iBooksAuthor</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

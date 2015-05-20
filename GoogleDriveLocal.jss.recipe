@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.GoogleDriveLocal</string>
+	<string>com.github.scottyloveless.jss.GoogleDriveLocal</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

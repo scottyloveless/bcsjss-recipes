@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.Numbers</string>
+	<string>com.github.scottyloveless.jss.Numbers</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>

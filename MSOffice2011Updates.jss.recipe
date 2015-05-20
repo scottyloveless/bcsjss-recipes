@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.jss.MSOffice2011Updates</string>
+	<string>com.github.scottyloveless.jss.MSOffice2011Updates</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
